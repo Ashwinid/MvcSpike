@@ -1,0 +1,5 @@
+C:\Users\trainline\Documents\Visual Studio 2012\Projects\MvcSpike\SmartService\bin\Debug\SmartService.dll
+C:\Users\trainline\Documents\Visual Studio 2012\Projects\MvcSpike\SmartService\bin\Debug\SmartService.pdb
+C:\Users\trainline\Documents\Visual Studio 2012\Projects\MvcSpike\SmartService\obj\Debug\SmartService.dll
+C:\Users\trainline\Documents\Visual Studio 2012\Projects\MvcSpike\SmartService\obj\Debug\SmartService.pdb
+C:\Users\trainline\Documents\Visual Studio 2012\Projects\MvcSpike\SmartService\obj\Debug\SmartService.csprojResolveAssemblyReference.cache
